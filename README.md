@@ -65,7 +65,7 @@ This project was done in July 2023 by:
 3. Orkhan Rafiyev (LinkedIn: https://www.linkedin.com/in/orkhan-rafiyev-496792218/ )
 4. Nazrin Khalilova (LinkedIn: https://www.linkedin.com/in/nazrin-aliyeva-frontend/ )
 
-Paper: 
+Paper: http://dx.doi.org/10.13140/RG.2.2.33333.90084
 
 ## License
 
