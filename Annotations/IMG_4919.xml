@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>IMG_4919.jpg</filename>
+	<path>C:\Users\USER\Desktop\sdp_images\test\IMG_4919.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>U-turn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1926</xmin>
+			<ymin>1926</ymin>
+			<xmax>2293</xmax>
+			<ymax>2344</ymax>
+		</bndbox>
+	</object>
+</annotation>

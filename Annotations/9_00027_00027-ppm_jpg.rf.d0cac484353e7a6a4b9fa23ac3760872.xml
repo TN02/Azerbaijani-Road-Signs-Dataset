@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>9_00027_00027-ppm_jpg.rf.d0cac484353e7a6a4b9fa23ac3760872.jpg</filename>
+	<path>9_00027_00027-ppm_jpg.rf.d0cac484353e7a6a4b9fa23ac3760872.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>No Overtaking</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>34</xmin>
+			<xmax>384</xmax>
+			<ymin>42</ymin>
+			<ymax>384</ymax>
+		</bndbox>
+	</object>
+</annotation>

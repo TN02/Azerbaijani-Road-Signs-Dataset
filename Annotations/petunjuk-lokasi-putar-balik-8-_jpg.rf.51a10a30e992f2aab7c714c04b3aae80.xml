@@ -1,0 +1,24 @@
+<annotation>
+	<filename>petunjuk-lokasi-putar-balik-8-_jpg.rf.51a10a30e992f2aab7c714c04b3aae80.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>U-turn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>323</xmin>
+			<ymin>181</ymin>
+			<xmax>371</xmax>
+			<ymax>460</ymax>
+		</bndbox>
+	</object>
+</annotation>

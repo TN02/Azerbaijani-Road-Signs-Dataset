@@ -1,0 +1,38 @@
+<annotation>
+	<folder>test</folder>
+	<filename>msg1269496718-418520.jpg</filename>
+	<path>C:\Users\USER\Desktop\sdp_images\test\msg1269496718-418520.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Straight or Left</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>435</xmin>
+			<ymin>642</ymin>
+			<xmax>610</xmax>
+			<ymax>906</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>One-Way Traffic</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>393</xmin>
+			<ymin>437</ymin>
+			<xmax>657</xmax>
+			<ymax>613</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>test</folder>
+	<filename>msg1269496718-418440.jpg</filename>
+	<path>C:\Users\USER\Desktop\sdp_images\test\msg1269496718-418440.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Turn Right</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>366</xmin>
+			<ymin>450</ymin>
+			<xmax>546</xmax>
+			<ymax>633</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Give Way</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>355</xmin>
+			<ymin>234</ymin>
+			<xmax>563</xmax>
+			<ymax>430</ymax>
+		</bndbox>
+	</object>
+</annotation>

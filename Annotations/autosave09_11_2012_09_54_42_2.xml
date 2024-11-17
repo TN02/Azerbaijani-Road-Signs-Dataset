@@ -1,0 +1,24 @@
+<annotation>
+	<filename>autosave09_11_2012_09_54_42_2.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Round-About</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>757</xmin>
+			<ymin>283</ymin>
+			<xmax>780</xmax>
+			<ymax>306</ymax>
+		</bndbox>
+	</object>
+</annotation>

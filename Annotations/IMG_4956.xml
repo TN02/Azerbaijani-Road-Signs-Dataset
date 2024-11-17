@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>IMG_4956.jpg</filename>
+	<path>C:\Users\USER\Desktop\sdp_images\test\IMG_4956.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pedestrian Crossing</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1108</xmin>
+			<ymin>2006</ymin>
+			<xmax>1372</xmax>
+			<ymax>2277</ymax>
+		</bndbox>
+	</object>
+</annotation>

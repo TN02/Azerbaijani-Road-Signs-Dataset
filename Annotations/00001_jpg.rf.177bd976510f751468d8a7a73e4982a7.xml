@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>00001_jpg.rf.177bd976510f751468d8a7a73e4982a7.jpg</filename>
+	<path>00001_jpg.rf.177bd976510f751468d8a7a73e4982a7.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>641</width>
+		<height>662</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>No Parking</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>412</xmin>
+			<xmax>509</xmax>
+			<ymin>68</ymin>
+			<ymax>159</ymax>
+		</bndbox>
+	</object>
+</annotation>

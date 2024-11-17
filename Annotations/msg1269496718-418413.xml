@@ -1,0 +1,38 @@
+<annotation>
+	<folder>test</folder>
+	<filename>msg1269496718-418413.jpg</filename>
+	<path>C:\Users\USER\Desktop\sdp_images\test\msg1269496718-418413.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Main Road</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>328</xmin>
+			<ymin>150</ymin>
+			<xmax>686</xmax>
+			<ymax>465</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Straight or Right</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>398</xmin>
+			<ymin>495</ymin>
+			<xmax>690</xmax>
+			<ymax>780</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>06725_png.rf.0a4168f4f29e92b0278968df48284292.jpg</filename>
+	<path>06725_png.rf.0a4168f4f29e92b0278968df48284292.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Main Road</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>99</xmin>
+			<xmax>559</xmax>
+			<ymin>97</ymin>
+			<ymax>545</ymax>
+		</bndbox>
+	</object>
+</annotation>

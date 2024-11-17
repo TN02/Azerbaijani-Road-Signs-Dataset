@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>5_original_5-png_0a8df4f5-c3f1-43de-b37f-8633216cc425_png_jpg.rf.c3037e9c17839a5b409fff2b1975a471.jpg</filename>
+	<path>5_original_5-png_0a8df4f5-c3f1-43de-b37f-8633216cc425_png_jpg.rf.c3037e9c17839a5b409fff2b1975a471.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pedestrian Crossing</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>10</xmin>
+			<xmax>379</xmax>
+			<ymin>1</ymin>
+			<ymax>417</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,21 @@
+AheadOnly
+Give Way
+Main Road
+No Entry
+No Overtaking
+No Parking
+No Waiting
+One-Way Traffic
+Parking-Sign
+Pedestrian Crossing
+Round-About
+STOP
+Speed_limit_90
+Straight or Left
+Straight or Right
+Turn Left
+Turn Right
+U-turn
+speed_warning_40
+speed_warning_60
+speed_warning_70

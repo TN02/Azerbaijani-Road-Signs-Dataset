@@ -1,0 +1,24 @@
+<annotation>
+	<filename>autosave13_04_2013_15_56_29_0.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>No Parking</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1787</xmin>
+			<ymin>318</ymin>
+			<xmax>1914</xmax>
+			<ymax>452</ymax>
+		</bndbox>
+	</object>
+</annotation>

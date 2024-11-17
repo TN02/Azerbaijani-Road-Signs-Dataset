@@ -1,0 +1,38 @@
+<annotation>
+	<folder>test</folder>
+	<filename>msg1269496718-418451.jpg</filename>
+	<path>C:\Users\USER\Desktop\sdp_images\test\msg1269496718-418451.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>AheadOnly</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>376</xmin>
+			<ymin>497</ymin>
+			<xmax>577</xmax>
+			<ymax>719</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Give Way</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>365</xmin>
+			<ymin>233</ymin>
+			<xmax>601</xmax>
+			<ymax>477</ymax>
+		</bndbox>
+	</object>
+</annotation>

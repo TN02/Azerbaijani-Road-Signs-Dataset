@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>8155_jpg.rf.cfa4155a010d2644393340cef62cb7ea.jpg</filename>
+	<path>8155_jpg.rf.cfa4155a010d2644393340cef62cb7ea.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Turn Right</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>190</xmin>
+			<xmax>314</xmax>
+			<ymin>135</ymin>
+			<ymax>324</ymax>
+		</bndbox>
+	</object>
+</annotation>

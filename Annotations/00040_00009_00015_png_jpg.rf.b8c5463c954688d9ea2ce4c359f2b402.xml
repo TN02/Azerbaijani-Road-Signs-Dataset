@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>00040_00009_00015_png_jpg.rf.b8c5463c954688d9ea2ce4c359f2b402.jpg</filename>
+	<path>00040_00009_00015_png_jpg.rf.b8c5463c954688d9ea2ce4c359f2b402.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Round-About</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>56</xmin>
+			<xmax>396</xmax>
+			<ymin>46</ymin>
+			<ymax>384</ymax>
+		</bndbox>
+	</object>
+</annotation>

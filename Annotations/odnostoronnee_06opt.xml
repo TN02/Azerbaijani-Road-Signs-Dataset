@@ -1,0 +1,24 @@
+<annotation>
+	<filename>odnostoronnee_06opt.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>649</width>
+		<height>365</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>One-Way Traffic</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>349</xmin>
+			<ymin>87</ymin>
+			<xmax>398</xmax>
+			<ymax>109</ymax>
+		</bndbox>
+	</object>
+</annotation>

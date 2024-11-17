@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>00013_00065_00009_png.rf.fbc96cc9967e8978fc2befd8b4ee542d.jpg</filename>
+	<path>00013_00065_00009_png.rf.fbc96cc9967e8978fc2befd8b4ee542d.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Give Way</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>97</xmin>
+			<xmax>561</xmax>
+			<ymin>105</ymin>
+			<ymax>554</ymax>
+		</bndbox>
+	</object>
+</annotation>

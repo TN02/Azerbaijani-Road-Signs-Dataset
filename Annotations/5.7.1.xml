@@ -1,0 +1,24 @@
+<annotation>
+	<filename>5.7.1.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>One-Way Traffic</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>178</ymin>
+			<xmax>469</xmax>
+			<ymax>321</ymax>
+		</bndbox>
+	</object>
+</annotation>

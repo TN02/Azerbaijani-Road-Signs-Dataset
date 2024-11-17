@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>PXL_20220605_155400412_jpg.rf.6139e4383beec09e29f22a9ca7a2a173.jpg</filename>
+	<path>PXL_20220605_155400412_jpg.rf.6139e4383beec09e29f22a9ca7a2a173.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Parking-Sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>171</xmin>
+			<xmax>349</xmax>
+			<ymin>154</ymin>
+			<ymax>264</ymax>
+		</bndbox>
+	</object>
+</annotation>

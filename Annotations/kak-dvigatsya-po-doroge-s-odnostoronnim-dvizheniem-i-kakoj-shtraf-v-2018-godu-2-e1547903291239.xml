@@ -1,0 +1,36 @@
+<annotation>
+	<filename>kak-dvigatsya-po-doroge-s-odnostoronnim-dvizheniem-i-kakoj-shtraf-v-2018-godu-2-e1547903291239.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>One-Way Traffic</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>8</ymin>
+			<xmax>278</xmax>
+			<ymax>94</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>One-Way Traffic</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>319</xmin>
+			<ymin>8</ymin>
+			<xmax>588</xmax>
+			<ymax>95</ymax>
+		</bndbox>
+	</object>
+</annotation>

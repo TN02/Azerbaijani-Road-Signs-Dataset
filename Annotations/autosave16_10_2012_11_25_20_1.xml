@@ -1,0 +1,38 @@
+<annotation>
+	<folder>test</folder>
+	<filename>autosave16_10_2012_11_25_20_1.jpg</filename>
+	<path>C:\Users\USER\Desktop\sdp_images\test\autosave16_10_2012_11_25_20_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Turn Left</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>777</xmin>
+			<ymin>383</ymin>
+			<xmax>823</xmax>
+			<ymax>429</ymax>
+		</bndbox>
+	</object>
+<object>
+		<name>speed_warning_40</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>823</xmin>
+			<ymin>391</ymin>
+			<xmax>869</xmax>
+			<ymax>438</ymax>
+		</bndbox>
+	</object>
+</annotation>

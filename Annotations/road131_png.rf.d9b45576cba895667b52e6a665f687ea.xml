@@ -1,0 +1,64 @@
+<annotation>
+	<folder />
+	<filename>road131_png.rf.d9b45576cba895667b52e6a665f687ea.jpg</filename>
+	<path>road131_png.rf.d9b45576cba895667b52e6a665f687ea.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pedestrian Crossing</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>138</xmin>
+			<xmax>162</xmax>
+			<ymin>1</ymin>
+			<ymax>34</ymax>
+		</bndbox>
+		<polygon>
+			<x1>137.030169</x1>
+			<y1>0</y1>
+			<x2>136.748271</x2>
+			<y2>33.309941</y2>
+			<x3>160.832481</x3>
+			<y3>32.842105</y3>
+			<x4>159.977003</x4>
+			<y4>0</y4>
+			<x5>137.030169</x5>
+			<y5>0</y5>
+		</polygon>
+	</object>
+	<object>
+		<name>Pedestrian Crossing</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>307</xmin>
+			<xmax>330</xmax>
+			<ymin>195</ymin>
+			<ymax>234</ymax>
+		</bndbox>
+		<polygon>
+			<x1>329.109173</x1>
+			<y1>233.076023</y1>
+			<x2>329.421955</x2>
+			<y2>193.777778</y2>
+			<x3>306.276091</x3>
+			<y3>196.116958</y3>
+			<x4>306.276091</x4>
+			<y4>232.608187</y4>
+			<x5>329.109173</x5>
+			<y5>233.076023</y5>
+		</polygon>
+	</object>
+</annotation>

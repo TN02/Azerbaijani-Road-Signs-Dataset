@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>autosave16_10_2012_11_48_42_2.jpg</filename>
+	<path>C:\Users\USER\Desktop\sdp_images\test\autosave16_10_2012_11_48_42_2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Turn Left</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>847</xmin>
+			<ymin>359</ymin>
+			<xmax>897</xmax>
+			<ymax>409</ymax>
+		</bndbox>
+	</object>
+</annotation>

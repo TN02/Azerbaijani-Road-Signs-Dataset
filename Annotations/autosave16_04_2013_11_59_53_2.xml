@@ -1,0 +1,24 @@
+<annotation>
+	<filename>autosave16_04_2013_11_59_53_2.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>speed_warning_40</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1554</xmin>
+			<ymin>453</ymin>
+			<xmax>1625</xmax>
+			<ymax>520</ymax>
+		</bndbox>
+	</object>
+</annotation>

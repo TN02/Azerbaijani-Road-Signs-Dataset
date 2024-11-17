@@ -1,0 +1,25 @@
+<annotation>
+		<folder>annotations</folder>
+		<filename>00004_00047_00003.jpg</filename>
+		<source>
+			<database>Unknown</database>
+		</source>
+		<size>
+			<width>39</width>
+			<height>39</height>
+			<depth>3</depth>
+		</size>
+		<segmented>0</segmented>
+		<object>
+			<name>speed_warning_70</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>6</xmin>
+				<ymin>5</ymin>
+				<xmax>34</xmax>
+				<ymax>33</ymax>
+			</bndbox>
+		</object>
+</annotation>

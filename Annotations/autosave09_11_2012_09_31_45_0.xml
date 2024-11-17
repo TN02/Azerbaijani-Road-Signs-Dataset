@@ -1,0 +1,24 @@
+<annotation>
+	<filename>autosave09_11_2012_09_31_45_0.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>One-Way Traffic</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1030</xmin>
+			<ymin>254</ymin>
+			<xmax>1105</xmax>
+			<ymax>275</ymax>
+		</bndbox>
+	</object>
+</annotation>

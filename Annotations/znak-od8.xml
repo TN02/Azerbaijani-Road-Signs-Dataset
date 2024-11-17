@@ -1,0 +1,24 @@
+<annotation>
+	<filename>znak-od8.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>663</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>One-Way Traffic</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>206</xmin>
+			<ymin>42</ymin>
+			<xmax>600</xmax>
+			<ymax>172</ymax>
+		</bndbox>
+	</object>
+</annotation>

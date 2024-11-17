@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>2021-07-12-14_18_33-Paris--Perpignan-motorway-to-visit-4K--Driving--French-region---YouTube_png_jpg.rf.eec82cd535911e1e0806dbb872b61317.jpg</filename>
+	<path>2021-07-12-14_18_33-Paris--Perpignan-motorway-to-visit-4K--Driving--French-region---YouTube_png_jpg.rf.eec82cd535911e1e0806dbb872b61317.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>384</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Speed_limit_90</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>272</xmin>
+			<xmax>310</xmax>
+			<ymin>152</ymin>
+			<ymax>210</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>fake_night_4032_png_jpg.rf.820b89ed93b492812a98e9387449a763.jpg</filename>
+	<path>fake_night_4032_png_jpg.rf.820b89ed93b492812a98e9387449a763.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>384</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Speed_limit_90</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>67</xmin>
+			<xmax>368</xmax>
+			<ymin>6</ymin>
+			<ymax>288</ymax>
+		</bndbox>
+	</object>
+</annotation>

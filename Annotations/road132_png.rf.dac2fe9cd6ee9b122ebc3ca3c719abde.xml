@@ -1,0 +1,39 @@
+<annotation>
+	<folder />
+	<filename>road132_png.rf.dac2fe9cd6ee9b122ebc3ca3c719abde.jpg</filename>
+	<path>road132_png.rf.dac2fe9cd6ee9b122ebc3ca3c719abde.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pedestrian Crossing</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>180</xmin>
+			<xmax>245</xmax>
+			<ymin>28</ymin>
+			<ymax>108</ymax>
+		</bndbox>
+		<polygon>
+			<x1>244.027262</x1>
+			<y1>106.179544</y1>
+			<x2>243.049589</x2>
+			<y2>27.45574</y2>
+			<x3>181.456169</x3>
+			<y3>26.805129</y3>
+			<x4>179.011986</x4>
+			<y4>106.830153</y4>
+			<x5>244.027262</x5>
+			<y5>106.179544</y5>
+		</polygon>
+	</object>
+</annotation>

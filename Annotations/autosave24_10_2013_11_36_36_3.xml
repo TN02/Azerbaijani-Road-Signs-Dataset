@@ -1,0 +1,24 @@
+<annotation>
+	<filename>autosave24_10_2013_11_36_36_3.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>U-turn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>753</xmin>
+			<ymin>374</ymin>
+			<xmax>778</xmax>
+			<ymax>400</ymax>
+		</bndbox>
+	</object>
+</annotation>

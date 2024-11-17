@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>PXL_20220605_170100708_jpg.rf.1f7448d139ca5db03c829bdf58050b93.jpg</filename>
+	<path>PXL_20220605_170100708_jpg.rf.1f7448d139ca5db03c829bdf58050b93.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>No Waiting</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>172</xmin>
+			<xmax>198</xmax>
+			<ymin>171</ymin>
+			<ymax>221</ymax>
+		</bndbox>
+	</object>
+</annotation>

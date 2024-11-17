@@ -1,0 +1,25 @@
+<annotation>
+		<folder>annotations</folder>
+		<filename>00009_00022_00005.jpg</filename>
+		<source>
+			<database>Unknown</database>
+		</source>
+		<size>
+			<width>34</width>
+			<height>35</height>
+			<depth>3</depth>
+		</size>
+		<segmented>0</segmented>
+		<object>
+			<name>No Overtaking</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>6</xmin>
+				<ymin>6</ymin>
+				<xmax>29</xmax>
+				<ymax>30</ymax>
+			</bndbox>
+		</object>
+</annotation>
