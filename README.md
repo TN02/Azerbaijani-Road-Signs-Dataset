@@ -1,6 +1,7 @@
-# Azerbaijani-Road-Signs-Dataset
+# Road-Signs-Dataset
 
-The Azerbaijani Road Signs Dataset is a dataset that was assembled by combining various publicly available datasets and adding additional captured images.
+The Road Signs Dataset is a dataset that was assembled by combining various publicly available datasets and adding additional captured images from Baku, Azerbaijan.
+Main purpose was to detect the road signs in Baku.
 
 Annotations are in Pascal VOC format. Most of the images were labelled manually.
 
